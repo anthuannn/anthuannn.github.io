@@ -1,76 +1,29 @@
+# 🚀 My Personal Portfolio
 
+Chào mừng bạn đến với Repository Portfolio của mình! Đây là nơi mình trình bày các kỹ năng, dự án cá nhân và lộ trình phát triển trong ngành CNTT.
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/academic-homepage-template?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/academic-homepage-template?style=flat)
-![License](https://img.shields.io/github/license/senli1073/academic-homepage-template)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/academic-homepage-template)
+## 📂 Nội dung Portfolio
+- **Giới thiệu:** Thông tin cá nhân và mục tiêu nghề nghiệp (Game Dev/Tester).
+- **Dự án:**
+    - **Website Mì Cay:** Thiết kế Fullstack & UI/UX.
+    - **Lập trình WinForms:** Ứng dụng Desktop với C#.
+    - **CTDL & Giải thuật:** Tối ưu hóa logic.
+- **Chứng chỉ:** Tổng hợp các khóa học từ Coursera và EF SET.
 
-# A simple Github Pages template for personal academic websites.
+## 🛠 Tech Stack
+- **Giao diện:** HTML5, CSS3 (Custom Styles), FontAwesome.
+- **Hosting:** [GitHub Pages](https://anthuannn.github.io/)
+- **Thiết kế:** Figma.
 
-## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/academic-homepage-template/main/screenshot_full.png)](https://senli1073.github.io/)
+## 📸 Hình ảnh mô tả
+*Vui lòng xem các ảnh `demo_micay.png` và `demo_portfolio.jpg` trong thư mục gốc để thấy giao diện thực tế.*
 
+## 📖 Cách sử dụng
+Để xem trang web trực tiếp, hãy truy cập: [anthuannn.github.io](https://anthuannn.github.io/)
 
-## Introduction
+Nếu bạn muốn chạy ở máy cá nhân:
+1. Clone repo: `git clone https://github.com/anthuannn/anthuannn.github.io.git`
+2. Mở file `index.html` bằng trình duyệt bất kỳ.
 
-This personal academic website template is based on [startbootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
-
-The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
-
-This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
-
-:milky_way: Demo: https://senli1073.github.io/
-
-
-## Getting Start
-### 1. Fork this repository
-The repository name should be `<username>.github.io`, which will also be your website's URL.
-
-
-### 2. Edit page content
-
-(1) Go to the folder where you want to store your project, and clone the new repository:
-```
-git clone https://github.com/<username>/<username>.github.io.git
-```
-The directory structure is as follows:
-
-```.
-.
-├── contents
-└── static
-    ├── assets
-    │   └── img
-    ├── css
-    └── js
-```
-
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
-
-(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
-
-(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
-
-(5) Push it: 
-```
-git commit -am 'init'
-git push
-```
-
-### 3. Setup
-(1) Under your repository name, click `Settings`.
-
-(2) In the "Code and automation" section of the sidebar, click `Pages`.
-
-(3) Under "Build and deployment", under "Source", select Deploy from a branch. Then, use the branch dropdown menu and select a publishing source.
-
-### 4. Enjoy
-
-Fire up a browser and go to `https://<username>.github.io`
-
-> Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub.
-
-
-## License
-
-Copyright Sen Li, 2023-2025. Licensed under an MIT license. You can copy and mess with this template.
+---
+© 2026 **Vũ Ngọc An Thuận** - MSSV: 49.01.104.147
